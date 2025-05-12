@@ -95,7 +95,7 @@ return total + (item.produtos.preco * item.quantidade);
   <p>
     Um vestido de casamento com um toque de elegância. A La Promesse é perfeita para este momento especial, com detalhes que encantam e um caimento que valoriza a silhueta.
   </p>
-  <a class="button-vestido" href="produto-card">Acessar página do vestido</a>
+  <a class="button-vestido" href="#">Acessar página do vestido</a>
   </div>
   <img src="/img/La Promesse.jpg" alt="La Promesse">
 </section>
@@ -155,7 +155,7 @@ return total + (item.produtos.preco * item.quantidade);
           </div>
 
     </div>
-    <a href="lancamentos">Voltar para a página inicial</a>
+    <a href="App.vue">Voltar para a página inicial</a>
 </section>
 <footer>
   <div>
