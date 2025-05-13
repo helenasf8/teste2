@@ -281,7 +281,7 @@ nav {
 }
 
 .oferecer img {
-  width: 80%;
+  width: 60%;
   border-radius: 20px;
   box-shadow: 5px 5px 10px #5a4747;
 }
@@ -327,7 +327,7 @@ nav {
 
 .produtos-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(295px, 1fr));
   gap: 2rem;
   margin: 2vw 5vw 0 5vw;
 }
@@ -364,7 +364,7 @@ nav {
 }
 
 .produto-card img {
-  width: 100%;
+  width: 90%;
   border-radius: 4px;
   margin-bottom: 0.5rem;
   height: 24vw;
